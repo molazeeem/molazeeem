@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 -->
 
 
-''' Bash 
-
+```Bash 
 sudo docker run
-'''
+```
